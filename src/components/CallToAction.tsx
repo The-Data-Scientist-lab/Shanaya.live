@@ -12,9 +12,9 @@ const CallToAction: React.FC = () => {
         
         <div className="relative z-10 p-8 md:p-12 text-white">
           <div className="text-center mb-8">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Connect with Shanaya?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Connect?</h2>
             <p className="text-lg text-purple-100 max-w-2xl mx-auto">
-              Join over 1000 satisfied clients and experience premium video calls with Shanaya. Book your session now and enjoy a special first-time discount.
+              Join over 1000 satisfied clients and experience premium video calls. Book your session now and enjoy a special first-time discount.
             </p>
           </div>
           
